@@ -22,20 +22,13 @@ fraud detection project/
 
 
 ---
+# To use it
 
-## To use it
-
-### 1. Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone <your-repo-url>
 cd fraud\ detection\ project
-
-
-
-
-
-
 
 ## 2. Create and activate a virtual environment
 python -m venv venv
