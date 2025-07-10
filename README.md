@@ -31,6 +31,12 @@ fraud detection project/
 git clone <your-repo-url>
 cd fraud\ detection\ project
 
+
+
+
+
+
+
 ## 2. Create and activate a virtual environment
 python -m venv venv
 On MacOS/ Linux use : source venv/bin/activate
