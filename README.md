@@ -20,7 +20,6 @@ fraud detection project/
 ├── requirements.txt # Required Python packages
 └── .gitignore
 
-
 ---
 # To use it
 
