@@ -2,25 +2,6 @@
 
 A machine learning pipeline to detect fraudulent transactions using techniques like data preprocessing, class imbalance handling, and model optimization with XGBoost.
 
----
-
-##  Project Structure
-
-fraud detection project/
-│
-├── data/ # Raw and/or processed datasets
-├── models/ # Trained models (e.g. xgboost.pkl)
-├── notebook/ # Jupyter notebooks for exploration
-├── src/ # Source code
-│ ├── main.py # Pipeline entry point
-│ ├── train.py # Model training logic
-│ ├── evaluate.py # Model evaluation
-│ ├── preprocess.py # Data preprocessing functions
-│ └── utils.py # Utility functions
-├── requirements.txt # Required Python packages
-└── .gitignore
-
----
 # To use it
 
 ## 1. Clone the repository
