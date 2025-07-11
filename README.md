@@ -38,9 +38,9 @@ Evaluate and save the model
 
 **Optimizations**:
 
-    Handled class imbalance using imbalanced-learn
+Handled class imbalance using imbalanced-learn
 
-    Hyperparameter tuning with optuna
+Hyperparameter tuning with optuna
 
 **Evaluation Metrics**: Accuracy, Precision, Recall, AUC (see evaluate.py)
 
