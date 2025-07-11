@@ -34,15 +34,15 @@ Evaluate and save the model
 
 # Model Details
 
-Algorithm: XGBoost Classifier
+**Algorithm**: XGBoost Classifier
 
-Optimizations:
+**Optimizations**:
 
-Handled class imbalance using imbalanced-learn
+    Handled class imbalance using imbalanced-learn
 
-Hyperparameter tuning with optuna
+    Hyperparameter tuning with optuna
 
-Evaluation Metrics: Accuracy, Precision, Recall, AUC (see evaluate.py)
+**Evaluation Metrics**: Accuracy, Precision, Recall, AUC (see evaluate.py)
 
 # Author:
 
