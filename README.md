@@ -8,6 +8,7 @@ A machine learning pipeline to detect fraudulent transactions using techniques l
 ```bash
 git clone <your-repo-url>
 cd fraud\detection\ project
+```
 
 ## 2. Create and activate a virtual environment
 
