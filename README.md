@@ -11,15 +11,15 @@ cd fraud\detection\ project
 ```
 
 ## 2. Create and activate a virtual environment
-
+```
 python -m venv venv
 On MacOS/ Linux use : source venv/bin/activate
 On Windows use: venv\Scripts\activate
-
+```
 ## 3. Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 # How to Run
 
