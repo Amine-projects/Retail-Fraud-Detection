@@ -6,7 +6,7 @@ A machine learning pipeline to detect fraudulent transactions using techniques l
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/Amine-projects/Retail-Fraud-Detection)>
 cd fraud\detection\ project
 ```
 
